@@ -12,20 +12,25 @@ AI Engineer (Oct 2023 - Present)
             Collected and annotated data for person and equipment detection using CVAT Annotator.
             Ensured real-time operation through Nvidia Triton server deployment.
             Integrated perception with existing Docker system using micro-service architecture.
+
 Reserved Temp. Officer (Apr 2021 - Oct 2023)
     Mandatory Military Services in The Egyptian Armed Forced (On-site)
+
 AI Research Assistant (Feb 2021 - May 2021)
     OneLab Company, Dokki, Egypt (On-site)
     Breast Cancer Detection Project: Developed a superior breast cancer detection model using computer vision, achieving an 8% F1-score improvement.
         Key Contributions:
             Led hardware optimization for deployment on a DPU platform.
             Utilized graph freezing, quantization, and weight pruning techniques to optimize model performance.
+
 AI/Software Engineer Internship (Jul 2019 - Sep 2019)
     Barq Systems (Salec) Egypt, Maadi (On-site)
     High-Performance Multi-Camera Employee Attendance Tracking System: Developed a modular system with high accuracy (97%).
         Key Contributions:
             Designed a three-stage architecture for localization, detection, and logical correction.
             Achieved individual camera accuracy of 94% for localization and detection.
+
+
 ### Research Publications
 TimeFusionNet for End-to-End Self-Driving Cars (2023)
     5th Novel Intelligent and Leading Emerging Sciences Conference (NILES), Giza, Egypt
