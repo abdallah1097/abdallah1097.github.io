@@ -34,3 +34,4 @@ High-Performance Multi-Camera Employee Attendance Tracking System: Developed a m
 - TimeFusionNet for End-to-End Self-Driving Cars (2023) [Link](https://ieeexplore.ieee.org/abstract/document/10296712/)
 5th Novel Intelligent and Leading Emerging Sciences Conference (NILES), Giza, Egypt
 Developed TimeFusionNet, a Time-Dependent deep neural network with Sensor-Fusion for autonomous vehicles, achieving a 12-40% improvement in decision-making capabilities.
+![SuperFusion](/assests/imgs/superfusion.jpg)
