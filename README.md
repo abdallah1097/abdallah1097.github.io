@@ -6,13 +6,13 @@ Highly skilled Machine Learning Engineer with a passion for applying Deep Learni
 - **AI Engineer (Oct 2023 - Present)**
 Esbaar Company, Muscat, Oman (On-site)
 RigAI Project: Developed AI models for real-time intrusion detection, activity prediction, and safety equipment monitoring for rig surveillance.
-![RIGAI_Project](/assests/imgs/RIGAI_Project.png)
     Key Contributions:
         Utilized YOLO algorithm for object detection and deployed TensorRT engine for inference.
         Fine-tuned YOLO model for pose estimation and trained PPE classifiers (Transformers Models).
         Collected and annotated data for person and equipment detection using CVAT Annotator.
         Ensured real-time operation through Nvidia Triton server deployment.
         Integrated perception with existing Docker system using micro-service architecture.
+![RIGAI_Project](/assests/imgs/RIGAI_Project.gif)
 
 - **AI Research Assistant (Feb 2021 - May 2021)**
 OneLab Company, Dokki, Egypt (On-site)
@@ -20,6 +20,7 @@ Breast Cancer Detection Project: Developed a superior breast cancer detection mo
     Key Contributions:
         Led hardware optimization for deployment on a DPU platform.
         Utilized graph freezing, quantization, and weight pruning techniques to optimize model performance.
+![BreastCancer_Project](/assests/imgs/BreastCancer_Project.png)
 
 - **AI/Software Engineer Internship (Jul 2019 - Sep 2019)**
 Barq Systems (Salec) Egypt, Maadi (On-site)
