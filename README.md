@@ -6,7 +6,7 @@ Highly skilled Machine Learning Engineer with a passion for applying Deep Learni
 - **AI Engineer (Oct 2023 - Present)**
 Esbaar Company, Muscat, Oman (On-site)
 RigAI Project: Developed AI models for real-time intrusion detection, activity prediction, and safety equipment monitoring for rig surveillance.
-![RIGAI_Project](/assests/imgs/RIGAI.png)
+![RIGAI_Project](/assests/imgs/RIGAI_Project.png)
     Key Contributions:
         Utilized YOLO algorithm for object detection and deployed TensorRT engine for inference.
         Fine-tuned YOLO model for pose estimation and trained PPE classifiers (Transformers Models).
